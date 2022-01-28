@@ -43,6 +43,6 @@ A Full Stack clone of the Trello web that looks and works similar to the real on
   --npm start
   the project will start on port 3000
 
---- ** if wanted to run with backend mounted on local machine paste " git clone https://github.com/Biswajit-97/Trello-clone-api.git " on terminal and setup api and run both of them together
+--- ** if wanted to run with backend mounted on local machine paste  ### `git clone https://github.com/Biswajit-97/Trello-clone-api.git ` on terminal and setup api and run both of them together
 
---- ** else if wanted to run only client side, change the baseurl path in services section with hosted url - https://thello---trello-clone.herokuapp.com
+--- ** else if wanted to run only client side, change the baseurl path in services section with hosted url -  ` https://thello---trello-clone.herokuapp.com `
